@@ -400,7 +400,7 @@ function drawGameSession(){
     }
     lights.noErase()
     lights.clear()
-    lights.background(0,0,0,250)
+    lights.background(0,0,0,240)
     lights.erase()
 
     if(players[playerID]){
